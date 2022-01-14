@@ -2,13 +2,13 @@
 
 Dataset has 3 files namely
 
-* Portfolio - This data provides informatiomn on the offers by starbucks
-id (string) - offer id
-offer_type (string) - type of offer ie BOGO, discount, informational
-difficulty (int) - minimum required spend to complete an offer
-reward (int) - reward given for completing an offer
-duration (int) - time for offer to be open, in days
-channels (list of strings)
+### Portfolio - This data provides informatiomn on the offers by starbucks
+* id (string) - offer id
+* offer_type (string) - type of offer ie BOGO, discount, informational
+* difficulty (int) - minimum required spend to complete an offer
+* reward (int) - reward given for completing an offer
+* duration (int) - time for offer to be open, in days
+* channels (list of strings)
 
 ### Profile - This data provides information about the customer profile
 * age (int) - age of the customer
@@ -17,11 +17,11 @@ channels (list of strings)
 * id (str) - customer id
 * income (float) - customer's income
 
-* Transcript - This data provides actual transactions done by the customers and also offers that starbucks sends to them
-event (str) - record description (ie transaction, offer received, offer viewed, etc.)
-person (str) - customer id
-time (int) - time in hours since start of test. The data begins at time t=0
-value - (dict of strings) - either an offer id or transaction amount depending on the record
+### Transcript - This data provides actual transactions done by the customers and also offers that starbucks sends to them
+* event (str) - record description (ie transaction, offer received, offer viewed, etc.)
+* person (str) - customer id
+* time (int) - time in hours since start of test. The data begins at time t=0
+* value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 ## Description
 
