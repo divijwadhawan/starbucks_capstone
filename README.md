@@ -10,12 +10,12 @@ reward (int) - reward given for completing an offer
 duration (int) - time for offer to be open, in days
 channels (list of strings)
 
-* Profile - This data provides information about the customer profile
-age (int) - age of the customer
-became_member_on (int) - date when customer created an app account
-gender (str) - gender of the customer (note some entries contain 'O' for other rather than M or F)
-id (str) - customer id
-income (float) - customer's income
+### Profile - This data provides information about the customer profile
+* age (int) - age of the customer
+* became_member_on (int) - date when customer created an app account
+* gender (str) - gender of the customer (note some entries contain 'O' for other rather than M or F)
+* id (str) - customer id
+* income (float) - customer's income
 
 * Transcript - This data provides actual transactions done by the customers and also offers that starbucks sends to them
 event (str) - record description (ie transaction, offer received, offer viewed, etc.)
