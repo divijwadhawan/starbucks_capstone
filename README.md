@@ -59,7 +59,7 @@ If you need help or facing issues, you can write to wwdivij@gmail.com
 ## Authors
 
 [@divijwadhawan](https://github.com/divijwadhawan)
-[@blog](https://medium.com/@wwdivij/start-your-data-science-learning-with-airbnb-seattle-analysis-example-98798d29f778)
+[@blog](https://medium.com/@wwdivij/starbucks-udacity-capstone-project-59050e5acb5f)
 ## Version History
 
 * 0.1
