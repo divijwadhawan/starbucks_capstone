@@ -23,6 +23,13 @@ Dataset has 3 files namely
 * time (int) - time in hours since start of test. The data begins at time t=0
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+## Data Access
+Data for this project is not publically available as it was provided by Udacity and 1 of the files are over 25 MB in size therefore not possible to upload here. However while google search an online repository has this data
+
+https://github.com/susmithagudapati/Starbucks-Capstone-Challenge/tree/master/data
+
+Please note when you download this data keep it a folder called 'data'
+
 ## Description
 
 This project is the capstone project of Udacity Nanodegree and the objective of the project is to suggest which kind of offers should starbucks create in future, also what type of users should it target for these offers
@@ -62,3 +69,4 @@ If you need help or facing issues, you can write to wwdivij@gmail.com
 
 ## Acknowledgments
 * [Udacity](https://classroom.udacity.com/)
+* [Data](https://github.com/susmithagudapati/Starbucks-Capstone-Challenge/tree/master/data)
