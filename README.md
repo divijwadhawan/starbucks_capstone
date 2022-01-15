@@ -23,12 +23,10 @@ Dataset has 3 files namely
 * time (int) - time in hours since start of test. The data begins at time t=0
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
-## Data Access
-Data for this project is not publically available as it was provided by Udacity and 1 of the files are over 25 MB in size therefore not possible to upload here. However while google search an online repository has this data
+## Data Unzipping
+Data for this project has files over 25 MB in size and therefore it was possible only to add a zip file for the data folder.
 
-https://github.com/susmithagudapati/Starbucks-Capstone-Challenge/tree/master/data
-
-Please note when you download this data keep it a folder called 'data'
+Before running the code, please unzip the file data.zip and it will create a folder called data in the repository. Then you can run the code.
 
 ## Description
 
@@ -52,7 +50,7 @@ This 1 python file -
 
 * This is public git project which can be downloaded or cloned
 * Before executing make sure dependencies are installed and necessary files are downloaded
-* Please put the files in a folder called "data" or if you choose a different folder please change the path where files are being read in the code
+* Please keep the files in the folder called "data" or if you choose a different folder please change the path where files are being read in the code
 
 ## Help
 
