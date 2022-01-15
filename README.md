@@ -69,4 +69,4 @@ If you need help or facing issues, you can write to wwdivij@gmail.com
 
 ## Acknowledgments
 * [Udacity](https://classroom.udacity.com/)
-* [Data](https://github.com/susmithagudapati/Starbucks-Capstone-Challenge/tree/master/data)
+* [Git Repo For Data](https://github.com/susmithagudapati/Starbucks-Capstone-Challenge/tree/master/data)
