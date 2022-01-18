@@ -24,6 +24,8 @@ Dataset has 3 files namely
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 ## Data Unzipping
+If you are an Udacity reviewer, please note that you can also use my workspace on udacity where the code is successfully updated and can be executed straight away.
+
 Data for this project has files over 25 MB in size and therefore it was possible only to add a zip file for the data folder.
 
 Before running the code, please unzip the file data.zip and it will create a folder called data in the repository. Then you can run the code.
@@ -67,4 +69,3 @@ If you need help or facing issues, you can write to wwdivij@gmail.com
 
 ## Acknowledgments
 * [Udacity](https://classroom.udacity.com/)
-* [Git Repo For Data](https://github.com/susmithagudapati/Starbucks-Capstone-Challenge/tree/master/data)
